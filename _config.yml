@@ -1,6 +1,6 @@
 name: WorldTravelersAssociation
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 1
 title: 'World Travelers Association '
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#f0713d'
     - '#f7ba9e'
   brandStrength: 1
-  lightness: 0.5
-  saturation: 0.5
+  lightness: 0.5625
+  saturation: 0.5625
   rhythmicContrast: 0.5
 purpose:
   - name: awareness
