@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: WTA in a Nutshell
-datePublished: '2015-10-14T15:54:55.591Z'
-dateModified: '2015-10-14T15:54:40.049Z'
+datePublished: '2015-10-14T15:56:32.911Z'
+dateModified: '2015-10-14T15:56:20.720Z'
 title: 'About:'
 sourcePath: _posts/2015-10-12-wta-portugal.md
 published: true
@@ -32,4 +32,4 @@ hiking, kayaking, and fishing, along with endless other self-expanding
 experiences.through
 self-expanding adventures while also helping improve the lives of 
 others. WTA is an organization which facilitates budget travel creating 
-the custom theme of "Adventure Travel for a Cause."
+the custom theme of "Adventure Travel for a Cause." ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cda874fb-f396-4ac7-96f2-d7a96463a45c.png)
