@@ -3,22 +3,33 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-title: WTA-Portugal
-dateModified: '2015-10-12T19:24:13.051Z'
+description: WTA in a Nutshell
+datePublished: '2015-10-14T15:54:55.591Z'
+dateModified: '2015-10-14T15:54:40.049Z'
+title: 'About:'
+sourcePath: _posts/2015-10-12-wta-portugal.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-datePublished: '2015-10-12T19:24:26.484Z'
-sourcePath: _posts/2015-10-12-wta-portugal.md
-published: true
 url: wta-portugal/index.html
 _type: Article
 
 ---
-https://vimeo.com/136816333
+World Travelers Association (WTA) believes in 'Travel for a Purpose' that allows travelers to learn and grow as individuals The Cause: What better way to build character and 
+assimilate with new cultures than giving back to the community as you 
+simultaneously enjoy a vacation? Volunteer efforts may include teaching 
+and playing sports with kids (orphans) and/or donating services to local
+villages. The 
+Adventure: The adventures facilitate exciting peak experiences, helping 
+gain new skills and perspective. Examples include: learning to surf, 
+hiking, kayaking, and fishing, along with endless other self-expanding 
+experiences.through
+self-expanding adventures while also helping improve the lives of 
+others. WTA is an organization which facilitates budget travel creating 
+the custom theme of "Adventure Travel for a Cause."
