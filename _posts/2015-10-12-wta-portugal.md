@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: WTA in a Nutshell
-datePublished: '2015-10-15T11:46:34.409Z'
-dateModified: '2015-10-15T11:46:08.392Z'
+datePublished: '2015-11-15T10:26:41.286Z'
+dateModified: '2015-11-15T10:26:39.533Z'
 title: 'About:'
 sourcePath: _posts/2015-10-12-wta-portugal.md
 published: true
@@ -21,7 +21,7 @@ url: wta-portugal/index.html
 _type: Article
 
 ---
-**World Travelers Association** (WTA) believes in 'Travel for a Purpose' that allows travelers to learn and grow as individuals through self-expanding adventures while also helping improve the lives of others. WTA is an organization which facilitates budget travel creating the custom theme of "Adventure Travel for a Cause." 
+**World Travelers Association** (WTA) believes in the lifestyle of 'Travel for a Purpose' that allows travelers to learn and grow as individuals through self-expanding adventures while also helping improve the lives of others. WTA is an organization which facilitates budget travel creating the custom theme of "Adventure Travel for a Cause." 
 
 **The Adventure:** The adventures facilitate exciting peak experiences, helping gain new skills and perspective. Examples include: learning to surf, hiking, kayaking, and fishing, along with endless other self-expanding experiences.
 
