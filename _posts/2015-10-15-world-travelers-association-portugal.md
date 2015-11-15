@@ -16,8 +16,8 @@ keywords:
   - hmm
   - really
 description: 'Portugal Highlight Video '
-datePublished: '2015-10-15T15:14:50.769Z'
-dateModified: '2015-10-15T15:14:18.060Z'
+datePublished: '2015-11-15T18:21:21.944Z'
+dateModified: '2015-10-15T17:28:07.738Z'
 author:
   - name: Jorge Branco
     url: 'http://vimeo.com/user29730865'
@@ -32,14 +32,14 @@ app_links:
     app_store_id: '425194759'
     app_name: Vimeo
 title: 'World Travelers Association: Portugal'
+sourcePath: _posts/2015-10-15-world-travelers-association-portugal.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2015-10-15-world-travelers-association-portugal.md
-published: true
 url: world-travelers-association-portugal/index.html
 _type: VideoObject
 _context: 'http://schema.org'
