@@ -1,12 +1,15 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: true
+keywords: []
+description: ''
+datePublished: '2015-11-15T18:21:06.604Z'
+dateModified: '2015-11-15T11:46:38.884Z'
 author: []
 related: []
-publisher:
-  name: Instagram
-  domain: www.instagram.com
-  url: 'https://instagram.com'
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/6fd9ee8/images/ico/favicon.ico'
-keywords: []
 app_links:
   - url: 'instagram://user?username=worldtravelersassociation'
     type: ios
@@ -16,19 +19,16 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/worldtravelersassociation/'
 title: 'World Travelers Association (@worldtravelersassociation) * Instagram photos and videos'
-datePublished: '2015-11-15T10:06:21.364Z'
-dateModified: '2015-11-15T10:06:07.079Z'
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: false
-description: ''
-authors: []
 sourcePath: _posts/2015-11-15-world-travelers-association-worldtravelersassociation-i.md
 published: true
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/6fd9ee8/images/ico/favicon.ico'
+url: world-travelers-association-worldtravelersassociation-i/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
